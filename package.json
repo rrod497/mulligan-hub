@@ -1,0 +1,19 @@
+{
+  "name": "mulligan-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrod497/mulligan-hub.git"
+  },
+  "author": "Rodrigo Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrod497/mulligan-hub/issues"
+  },
+  "homepage": "https://github.com/rrod497/mulligan-hub#readme"
+}
